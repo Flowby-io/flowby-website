@@ -43,7 +43,7 @@ html {
 body {
 	color: #666666;
 	font-size: 14px;
-	font-family: 'poppins', sans-serif;
+	font-family: 'Montserrat-black', sans-serif;
 	line-height: 1.80857;
 	font-weight: normal;
 	overflow-x: hidden;
@@ -1643,7 +1643,7 @@ input[type="radio"] .styled:checked+label::after {
 ---------------------------------------------------------------------*/
 
 .header {
-	background: #0fc690;
+	background: #19DBDB;
 	padding: 40px 0px;
 	padding-bottom: 35px;
 }
@@ -1651,7 +1651,7 @@ input[type="radio"] .styled:checked+label::after {
 .logo a {
 	font-size: 40px;
 	font-weight: bold;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	color: #fff;
 	line-height: 40px;
 }
@@ -1756,7 +1756,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-weight: bold;
 	color: #050303;
 	line-height: 46px;
-	border-bottom: #0fc690 solid 1px;
+	border-bottom: #19DBDB solid 1px;
 	width: 410px;
 	margin: 0 auto;
 	margin-bottom: 0px;
