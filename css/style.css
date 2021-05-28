@@ -1840,7 +1840,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .service .service-box .hoverle a {
 	padding: 5px 30px;
-	color: #40cfa4;
+	color: #19DBDB;
 }
 
 .service .titlepage {
@@ -1854,7 +1854,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-weight: bold;
 	color: #050303;
 	line-height: 46px;
-	border-bottom: #0fc690 solid 1px;
+	border-bottom: #19DBDB solid 1px;
 	width: 210px;
 	margin: 0 auto;
 	margin-bottom: 0px;
@@ -1870,7 +1870,7 @@ input[type="radio"] .styled:checked+label::after {
 	text-align: center;
 	display: flex;
 	justify-content: center;
-	background: #0fc690d6;
+	background: #19DBDB;
 	align-items: center;
 	margin: 0 15px;
 }
