@@ -89,7 +89,10 @@ h3 {
 }
 
 h4 {
-	font-size: 16px
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	padding: 5px 30px
 }
 
 h5 {
@@ -1815,10 +1818,12 @@ input[type="radio"] .styled:checked+label::after {
 
 .service .service-box figure {
 	margin: 0px;
+	background: black
 }
 
 .service .service-box figure img {
 	width: 100%;
+	opacity: 0.6
 }
 
 .green {
@@ -1840,7 +1845,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .service .service-box .hoverle a {
 	padding: 5px 30px;
-	color: #19DBDB;
+	color: #19DBDB !important;
 }
 
 .service .titlepage {
