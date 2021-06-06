@@ -1784,20 +1784,21 @@ input[type="radio"] .styled:checked+label::after {
 
 .about .img-box a {
 	text-transform: uppercase;
-	border: #000 solid 1px;
-	background: #000;
+	border: white solid 1px;
+	background: #19DBDB;
 	width: 206px;
 	padding: 15px 0;
 	display: inline-block;
 	font-weight: 500;
 	font-size: 17px;
 	line-height: 30px;
-	color: #fff;
+	color: white;
 }
 
 .about .img-box a:hover {
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #19DBDB solid 1px;
+	background: white;
+	color: #19DBDB;
 }
 
 
