@@ -2027,14 +2027,14 @@ img.zoom {
 }
 
 .read-more a:hover {
-	background: #0fc690;
+	background: #19DBDB;
 }
 
 
 /** end download section **/
 
 .testimonial {
-	background: #0fc690;
+	background: #19DBDB;
 	padding: 60px 0px;
 }
 
@@ -2072,7 +2072,7 @@ img.zoom {
 }
 
 .carousel-caption.relat h3 {
-	color: #0fc690;
+	color: #19DBDB;
 	font-size: 20px;
 	text-transform: uppercase;
 	line-height: 20px;
@@ -2096,7 +2096,7 @@ img.zoom {
 #testimonial_slider .carousel-control-prev:focus,
 #testimonial_slider .carousel-control-next:focus {
 	color: #fff;
-	background: #0fc690;
+	background: #19DBDB;
 	width: 50px;
 	height: 50px;
 }
