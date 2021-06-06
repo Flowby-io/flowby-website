@@ -1724,7 +1724,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .about {
 	padding-top: 90px;
-	padding-bottom: 90px;
+	padding-bottom: 0px;
 	background: #fff;
 }
 
@@ -2182,6 +2182,7 @@ img.zoom {
 .footer {
 	background: #19DBDB;
 	padding-top: 55px;
+	padding-bottom: 40px;
 }
 
 .footer .address h3 {
